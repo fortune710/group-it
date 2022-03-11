@@ -1,0 +1,36 @@
+div{
+    border-radius: 10px;
+    height: 200px;
+    width: 70px;
+    background-color: #121212;
+    transition: all 1s ease-in
+}
+
+p{
+    font-size: 18px;
+}
+
+h3{
+    font-size: 20px;
+}
+
+img{
+    width: 90%;
+    border-radius: 7px;
+    height: 45px;
+}
+
+div:hover{
+    background: linear-gradient(to bottom, #121212, #44b9e7) ;
+    transform:rotateZ(90deg)
+}
+
+div:hover h3, div:hover img{
+    display: none
+}
+
+div:hover p{
+    color: #cfcfcf;
+}
+
+

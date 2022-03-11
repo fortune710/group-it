@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "resturant-website-1789": {
+      "hosting": {
+        "example-app": [
+          "example-app-bf9e8"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "resturant-website-1789"
+  }
+}

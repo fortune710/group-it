@@ -1,0 +1,33 @@
+ion-content{
+    height: 100vh;
+}
+
+section{
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 2em 6.25em;
+    filter:brightness(0.8);
+    color: #fff;
+}
+
+ion-color{
+    --border-color: #fff;
+}
+
+section:last-of-type{
+    margin-bottom: 5em;
+}
+
+#anime{
+    background: url('../../../assets/images/wallpaper2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+#food{
+    background: url('../../../assets/images/landing.jpg');
+    background-position: center;
+    background-size: cover;
+}
