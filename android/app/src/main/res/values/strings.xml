@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">group-it</string>
+    <string name="title_activity_main">group-it</string>
+    <string name="package_name">com.groupit.app</string>
+    <string name="custom_url_scheme">com.groupit.app</string>
+</resources>

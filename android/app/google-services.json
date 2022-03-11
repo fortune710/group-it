@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288811136521",
+    "project_id": "resturant-website-1789",
+    "storage_bucket": "resturant-website-1789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288811136521:android:29283ffa4c9a5f0e38ead8",
+        "android_client_info": {
+          "package_name": "com.groupit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288811136521-pdofdrv2d8aatmcrfvftj039dccrksvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq-oWRkjjres4YygiUIQWeyiUAy8AslUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288811136521-pdofdrv2d8aatmcrfvftj039dccrksvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

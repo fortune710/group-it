@@ -1,0 +1,6 @@
+{
+	"appId": "com.groupit.app",
+	"appName": "group-it",
+	"webDir": "dist/example-app",
+	"bundledWebRuntime": false
+}
